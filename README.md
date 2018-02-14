@@ -85,6 +85,7 @@ files to Gnuplot.
 
 ## RubyGems
 This knapsack problem solver is published as a Gem at RubyGems.
+
 https://rubygems.org/gems/knapsack_solver
 
 ## License

@@ -44,12 +44,12 @@ not given, content which would be written to the files is written to stdout
 separated by one blank line (results are written the first and are followed by
 statistics).
 Both files have the same basename which is constructed as concatenation of
-input dataset file basename and method of solving. E.g. for Brand and Bound
+input dataset file basename and method of solving. E.g. for Dynamic programming
 method and ```size_4.dataset``` input dataset file the following files are
 produced:
 ```
-size_4_branch_and_bound.results
-size_4_branch_and_bound.stats
+size_4_dynamic_programming.results
+size_4_dynamic_programming.stats
 ```
 The first two lines of the ```.results``` file begins with ```#```. Those are
 comments. They are followed by lines with results of solving corresponding

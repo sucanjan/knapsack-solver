@@ -1,0 +1,3 @@
+# ../test/output_logs/size_4_heuristic.stats
+# avg_price    avg_cpu_time    avg_wall_clock_time    avg_relative_error
+67.66666666666667 0.010000000000000004 0.010592698342710113 0.0

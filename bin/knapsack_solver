@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+require 'knapsack_solver/cli'
+
+begin
+  KnapsackSolver::CLI.run(ARGV)
+  exit 0
+rescue StandardError => e
+  STDERR.puts "ERROR: #{e.message}"
+  STDERR.puts "Try 'knapsack_solver --help' for more information."
+  exit 1
+end

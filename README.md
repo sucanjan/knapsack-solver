@@ -5,6 +5,11 @@ using branch-and-bound method, dynamic programming, simple heuristic
 CPU and wall-clock time spent by solving a problem, compute relative error of
 the result and generate graphs from those values.
 
+It was created as a coursework from Programming in Ruby course during
+my studies at [Faculty of Information
+Technology](https://fit.cvut.cz/en) at [Czech Technical University in
+Prague](https://www.cvut.cz/en).
+
 ## Usage
 Built-in usage information can be obtained by executing ```knapsack_solver```
 with ```-h``` or ```--help``` option.

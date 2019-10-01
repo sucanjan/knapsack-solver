@@ -1,9 +1,9 @@
 # knapsack-solver
 This is command-line utility for solving 0/1 knapsack problem
-usingbranch-and-bound method, dynamic programming, simple heuristic
-(weight/price)and fully polynomial time approximation scheme. It can measure
-CPU andwall-clock time spent by solving a problem, compute relative error of
-theresult and generate graphs from those values.
+using branch-and-bound method, dynamic programming, simple heuristic
+(weight/price) and fully polynomial time approximation scheme. It can measure
+CPU and wall-clock time spent by solving a problem, compute relative error of
+the result and generate graphs from those values.
 
 ## Usage
 Built-in usage information can be obtained by executing ```knapsack_solver```

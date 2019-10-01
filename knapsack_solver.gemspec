@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://github.com/sucanjan/knapsack-solver'
   s.license     = 'MIT'
   s.author      = 'Jan Sucan'
-  s.email       = 'sucanjan@fit.cvut.cz'
+  s.email       = 'jan@jansucan.com'
 
   s.summary     = '0/1 knapsack problem solver.'
   s.description = <<-EOF
